@@ -1,0 +1,7 @@
+files:
+  - source: /i18n/en/**/*
+    translation: /i18n/%two_letters_code%/**/%original_file_name%
+  - source: /docs/**/*
+    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+  - source: /versioned_docs/version-1.x/**/*
+    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/version-1.x/**/%original_file_name%
