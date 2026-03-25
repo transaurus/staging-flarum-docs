@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/flarum/docs",
+  "branch": "main",
+  "docusaurusRoot": ".",
+  "configFile": "docusaurus.config.js",
+  "translateCommand": "npx docusaurus write-translations",
+  "buildCommand": "npm run build",
+  "buildOutput": "build",
+  "packageManager": "npm"
+}
